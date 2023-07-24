@@ -1,0 +1,14 @@
+{
+  "item.sanboi.new_item": "Sanboi stone",
+  "item.sanboi.sanboi_fragment": "Sanboi fragment",
+  "item.sanboi.sanboi_helmet": "Sanboi helmet",
+  "item.sanboi.sanboi_chestplate": "Sanboi chestplate",
+  "item.sanboi.sanboi_leggings": "Sanboi leggings",
+  "item.sanboi.sanboi_boots": "Sanboi boots",
+  "item.sanboi.beer": "Baltika-9",
+  "item.sanboi.hop_seeds": "Hop seeds",
+  "itemGroup.sanboi.new_group": "Sanboy",
+  "block.sanboi.new_block": "Sanboy block",
+  "block.sanboi.double_block": "Double sanboy block",
+  "block.sanboi.plita_block": "Sanboy speed block"
+}

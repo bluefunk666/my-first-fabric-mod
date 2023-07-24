@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "sanboi:block/new_block"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "X": {
+      "item": "sanboi:sanboi_fragment"
+    },
+    "Y": {
+      "item": "sanboi:new_item"
+    },
+    "P": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "pattern": [
+    "PXP",
+    "XYX",
+    "PXP"
+  ],
+  "result": {
+    "item": "sanboi:plita_block"
+  }
+}

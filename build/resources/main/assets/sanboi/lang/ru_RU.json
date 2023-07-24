@@ -1,0 +1,14 @@
+{
+  "item.sanboi.new_item": "Камень санбоя",
+  "item.sanboi.sanboi_fragment": "Осколок санбоя",
+  "item.sanboi.sanboi_helmet": "Шлем санбоя",
+  "item.sanboi.sanboi_chestplate": "Нагрудник санбоя",
+  "item.sanboi.sanboi_leggings": "Штаны санбоя",
+  "item.sanboi.sanboi_boots": "Ботинки санбоя",
+  "item.sanboi.beer": "Балтика 9",
+  "item.sanboi.hop_seeds": "Семена хмеля",
+  "itemGroup.sanboi.new_group": "Санбой",
+  "block.sanboi.new_block": "Блок санбоя",
+  "block.sanboi.double_block": "Двойнок блок санбоя",
+  "block.sanboi.plita_block": "Ускоряющий блок санбоя"
+}
